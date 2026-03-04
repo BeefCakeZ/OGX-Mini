@@ -1,6 +1,3 @@
-*/ 
-*nw4compiling
-*/
 #include "Board/Config.h"
 #include "OGXMini/Board/Standard.h"
 #include "OGXMini/Board/PicoW.h"
